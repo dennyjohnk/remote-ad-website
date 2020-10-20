@@ -20124,9 +20124,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 800;
   src: local("Poppins ExtraBold"), local("Poppins-ExtraBold"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/poppins/poppins-v6-latin-800.woff2")
+    url("./asset/plugins/radiantthemes-addons/assets/fonts/poppins/poppins-v6-latin-800.woff2")
       format("woff2"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/poppins/poppins-v6-latin-800.woff")
+    url("./asset/plugins/radiantthemes-addons/assets/fonts/poppins/poppins-v6-latin-800.woff")
       format("woff");
 }
 @font-face {
@@ -20134,9 +20134,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 400;
   src: local("Roboto"), local("Roboto-Regular"),
-    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-regular.woff2")
+    url("./asset/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-regular.woff2")
       format("woff2"),
-    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-regular.woff")
+    url("./asset/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-regular.woff")
       format("woff");
 }
 @font-face {
@@ -20144,9 +20144,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 500;
   src: local("Roboto Medium"), local("Roboto-Medium"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-500.woff2")
+    url("./asset/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-500.woff2")
       format("woff2"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-500.woff")
+    url("./asset/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-500.woff")
       format("woff");
 }
 @font-face {
@@ -20154,9 +20154,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 700;
   src: local("Roboto Bold"), local("Roboto-Bold"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-700.woff2")
+    url("./asset/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-700.woff2")
       format("woff2"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-700.woff")
+    url("./asset/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-700.woff")
       format("woff");
 }
 @font-face {
@@ -20164,9 +20164,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 900;
   src: local("Roboto Black"), local("Roboto-Black"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-900.woff2")
+    url("./asset/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-900.woff2")
       format("woff2"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-900.woff")
+    url("./asset/plugins/radiantthemes-addons/assets/fonts/roboto/roboto-v18-latin-900.woff")
       format("woff");
 }
 @font-face {
@@ -20174,9 +20174,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 300;
   src: local("Rubik Light"), local("Rubik-Light"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-300.woff2")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-300.woff2")
       format("woff2"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-300.woff")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-300.woff")
       format("woff");
 }
 @font-face {
@@ -20194,9 +20194,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 500;
   src: local("Rubik Medium"), local("Rubik-Medium"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-500.woff2")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-500.woff2")
       format("woff2"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-500.woff")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-500.woff")
       format("woff");
 }
 @font-face {
@@ -20204,9 +20204,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 700;
   src: local("Rubik Bold"), local("Rubik-Bold"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-700.woff2")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-700.woff2")
       format("woff2"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-700.woff")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-700.woff")
       format("woff");
 }
 @font-face {
@@ -20214,9 +20214,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 900;
   src: local("Rubik Black"), local("Rubik-Black"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-900.woff2")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-900.woff2")
       format("woff2"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-900.woff")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/rubik/rubik-v8-latin-900.woff")
       format("woff");
 }
 @font-face {
@@ -20234,9 +20234,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 500;
   src: local("Taviraj Medium"), local("Taviraj-Medium"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/taviraj/taviraj-v4-latin-500.woff2")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/taviraj/taviraj-v4-latin-500.woff2")
       format("woff2"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/taviraj/taviraj-v4-latin-500.woff")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/taviraj/taviraj-v4-latin-500.woff")
       format("woff");
 }
 @font-face {
@@ -20244,9 +20244,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 600;
   src: local("Taviraj SemiBold"), local("Taviraj-SemiBold"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/taviraj/taviraj-v4-latin-600.woff2")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/taviraj/taviraj-v4-latin-600.woff2")
       format("woff2"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/taviraj/taviraj-v4-latin-600.woff")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/taviraj/taviraj-v4-latin-600.woff")
       format("woff");
 }
 @font-face {
@@ -20254,9 +20254,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 700;
   src: local("Taviraj Bold"), local("Taviraj-Bold"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/taviraj/taviraj-v4-latin-700.woff2")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/taviraj/taviraj-v4-latin-700.woff2")
       format("woff2"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/taviraj/taviraj-v4-latin-700.woff")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/taviraj/taviraj-v4-latin-700.woff")
       format("woff");
 }
 @font-face {
@@ -20274,9 +20274,9 @@ course-style-one.courses_section {
   font-style: normal;
   font-weight: 600;
   src: local("Titillium Web SemiBold"), local("TitilliumWeb-SemiBold"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/titillium-web/titillium-web-v7-latin-600.woff2")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/titillium-web/titillium-web-v7-latin-600.woff2")
       format("woff2"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/radiantthemes-addons/assets/fonts/titillium-web/titillium-web-v7-latin-600.woff")
+    url("./asset/wp-content/plugins/radiantthemes-addons/assets/fonts/titillium-web/titillium-web-v7-latin-600.woff")
       format("woff");
 }
 @font-face {
@@ -20708,12 +20708,12 @@ rs-sbg-px {
 }
 @font-face {
   font-family: "revicons";
-  src: url("https://ryse.radiantthemes.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888");
-  src: url("https://ryse.radiantthemes.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888#iefix")
+  src: url("./asset/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888");
+  src: url("./asset/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888#iefix")
       format("embedded-opentype"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888")
+    url("./asset/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888")
       format("woff"),
-    url("https://ryse.radiantthemes.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888")
+    url("./asset/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888")
       format("truetype"),
     url("../../plugins/revslider/public/assets/fonts/revicons/revicons90c6.svg?5510888#revicons")
       format("svg");
